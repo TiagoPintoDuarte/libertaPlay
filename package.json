@@ -1,0 +1,13 @@
+{
+  "name": "libertaAutomation",
+  "version": "1.0.0",
+  "description": "Teste automatizado LP",
+  "main": "index.js",
+  "author": "William De Souza",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.8.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
